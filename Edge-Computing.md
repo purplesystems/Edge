@@ -24,3 +24,25 @@ While this concept isn’t new, there are several key drivers making it a more v
     More computing power executed in smaller footprint devices (such as a gateway or sensor hub)
     Ever-growing volume of data from machines and/or the environment (e.g. weather or market pricing)
     Modern machine learning and analytics
+
+
+### Possible outcome
+
+The business implications of this technology are compelling. While there are many outcomes that it can enable for industrial organizations, the Edge Computing Consortium identifies the following:
+
+    Predictive maintenance
+        Reducing costs
+        Security assurance
+        Product-to-service extension (new revenue streams)
+    Energy Efficiency Management
+        Lower energy consumption
+        Lower maintenance costs
+        Higher reliability
+    Smart manufacturing
+        Increased customer demands mean product service life is dramatically reduced
+            Customization of production modes
+            Small-quantity and multi-batch modes are beginning to replace high-volume manufacturing
+    Flexible device replacement
+        Flexible adjustments to production plan
+        Rapid deployment of new processes and models
+
